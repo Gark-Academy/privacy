@@ -12,11 +12,8 @@ Lorsque vous visitez le spr01.com, nous recueillons automatiquement certaines in
 
 Nous nous engageons à fournir une transparence totale concernant la collecte, l’utilisation, et le partage des données personnelles et sensibles dans le cadre de notre application. Voici les détails :  
 
-### Types de données collectées, utilisées et partagées
-Notre application peut accéder, collecter, utiliser et partager les types de données suivants :  
-
-- **Données utilisateur** :  
-  - Nom, prénom, adresse e-mail, date de naissance, photo de profil.  
+### Types de données collectées, utilisées et partagées :
+Notre application peut accéder, collecter, utiliser et partager les données utilisateur suivants :  Nom, prénom, adresse e-mail, date de naissance, photo de profil.  
 
 **Partage des données** :  
 Les données collectées peuvent être partagées avec des tiers uniquement dans les cas suivants :  
