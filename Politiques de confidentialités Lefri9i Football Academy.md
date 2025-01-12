@@ -1,12 +1,12 @@
 ## Politique de confidentialité
-L'application mobile Lefri9i Football Academy est détenu par SPR01 Labs, qui est un contrôleur de données de vos données personnelles.
+L'application mobile Lefri9i Football Academy est détenu par  Labs, qui est un contrôleur de données de vos données personnelles.
 
-Nous avons adopté cette politique de confidentialité, qui détermine la manière dont nous traitons les informations collectées par spr01.com, qui fournit également les raisons pour lesquelles nous devons collecter certaines données personnelles vous concernant. Par conséquent, vous devez lire cette politique de confidentialité avant d'utiliser le site web de spr01.com.
+Nous avons adopté cette politique de confidentialité, qui détermine la manière dont nous traitons les informations collectées par l'application mobile Lefri9i Football Academy , qui fournit également les raisons pour lesquelles nous devons collecter certaines données personnelles vous concernant. Par conséquent, vous devez lire cette politique de confidentialité avant d'utiliser l'application mobile Lefri9i Football Academy .
 
 Nous prenons soin de vos données personnelles et nous nous engageons à en garantir la confidentialité et la sécurité.
 
 Les informations personnelles que nous collectons :
-Lorsque vous visitez le spr01.com, nous recueillons automatiquement certaines informations sur votre appareil, notamment des informations sur votre navigateur web, votre adresse IP, votre fuseau horaire et certains des cookies installés sur votre appareil. En outre, lorsque vous naviguez sur le site, nous recueillons des informations sur les pages web ou les produits individuels que vous consultez, sur les sites web ou les termes de recherche qui vous ont renvoyé au site et sur la manière dont vous interagissez avec le site. Nous désignons ces informations collectées automatiquement par le terme "informations sur les appareils". En outre, nous pourrions collecter les données personnelles que vous nous fournissez (y compris, mais sans s'y limiter, le nom, le prénom, l'adresse, les informations de paiement, etc.) lors de l'inscription afin de pouvoir exécuter le contrat.
+Lorsque vous utiliser l'application mobile Lefri9i Football Academy , nous recueillons automatiquement certaines informations sur votre appareil, notamment des informations sur votre navigateur web, votre adresse IP, votre fuseau horaire et certains des cookies installés sur votre appareil. En outre, lorsque vous naviguez sur le site, nous recueillons des informations sur les pages web ou les produits individuels que vous consultez, sur les sites web ou les termes de recherche qui vous ont renvoyé au site et sur la manière dont vous interagissez avec le site. Nous désignons ces informations collectées automatiquement par le terme "informations sur les appareils". En outre, nous pourrions collecter les données personnelles que vous nous fournissez (y compris, mais sans s'y limiter, le nom, le prénom, l'adresse, les informations de paiement, etc.) lors de l'inscription afin de pouvoir exécuter le contrat.
 
 ## Gestion des données personnelles et sensibles
 
@@ -68,4 +68,4 @@ Nous divulguerons toute information que nous collectons, utilisons ou recevons s
 ## Informations de contact :
 Si vous souhaitez nous contacter pour comprendre davantage la présente politique ou si vous souhaitez nous contacter concernant toute question relative aux droits individuels et à vos informations personnelles, vous pouvez envoyer un courriel à
 
-spr01compte@gmail.com
+compte@gmail.com
