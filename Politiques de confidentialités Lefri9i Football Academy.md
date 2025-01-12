@@ -1,5 +1,5 @@
 ## Politique de confidentialité
-L'application mobile Lefri9i Football Academy est détenu par  Labs, qui est un contrôleur de données de vos données personnelles.
+L'application mobile Lefri9i Football Academy est détenu par SPR01 Labs, qui est un contrôleur de données de vos données personnelles.
 
 Nous avons adopté cette politique de confidentialité, qui détermine la manière dont nous traitons les informations collectées par l'application mobile Lefri9i Football Academy , qui fournit également les raisons pour lesquelles nous devons collecter certaines données personnelles vous concernant. Par conséquent, vous devez lire cette politique de confidentialité avant d'utiliser l'application mobile Lefri9i Football Academy .
 
