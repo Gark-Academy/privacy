@@ -8,7 +8,7 @@ Nous prenons soin de vos données personnelles et nous nous engageons à en gara
 Les informations personnelles que nous collectons :
 Lorsque vous utiliser l'application mobile Lefri9i Football Academy , nous recueillons automatiquement certaines informations sur votre appareil, notamment des informations sur votre navigateur web, votre adresse IP, votre fuseau horaire et certains des cookies installés sur votre appareil. En outre, lorsque vous naviguez sur le site, nous recueillons des informations sur les pages web ou les produits individuels que vous consultez, sur les sites web ou les termes de recherche qui vous ont renvoyé au site et sur la manière dont vous interagissez avec le site. Nous désignons ces informations collectées automatiquement par le terme "informations sur les appareils". En outre, nous pourrions collecter les données personnelles que vous nous fournissez (y compris, mais sans s'y limiter, le nom, le prénom, l'adresse, les informations de paiement, etc.) lors de l'inscription afin de pouvoir exécuter le contrat.
 
-## Gestion des données personnelles et sensibles
+## Gestion des données personnelles et sensibles :
 
 Nous nous engageons à fournir une transparence totale concernant la collecte, l’utilisation, et le partage des données personnelles et sensibles dans le cadre de notre application. Voici les détails :  
 
