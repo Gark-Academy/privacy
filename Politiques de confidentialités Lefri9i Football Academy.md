@@ -23,8 +23,6 @@ Les données collectées peuvent être partagées avec des tiers uniquement dans
 - Pour respecter des obligations légales ou répondre à des demandes d’organismes gouvernementaux.  
 - Avec des fournisseurs d’analyse et de publicité dans le cadre d’un usage agrégé et anonymisé.  
 
----
-
 ### 2. Sécurisation des données personnelles et sensibles
 Nous avons mis en place des mesures rigoureuses pour protéger vos données :  
 - **Chiffrement des données** :  
@@ -34,28 +32,14 @@ Nous avons mis en place des mesures rigoureuses pour protéger vos données :
 - **Surveillance et audits** :  
   Nos systèmes sont surveillés en permanence pour prévenir tout accès non autorisé, et des audits réguliers garantissent leur sécurité.  
 
----
-
 ### 3. Politique de conservation et de suppression des données
 - **Conservation des données** :  
   - Les données personnelles sont conservées uniquement le temps nécessaire pour atteindre les objectifs pour lesquels elles ont été collectées ou pour répondre à des obligations légales.  
   - Les périodes de conservation spécifiques dépendent du type de données collectées.  
 
-## Durée de conservation
-- **Données de compte** : Conservées tant que le compte est actif
-- **Données de transaction** : 10 ans (obligation légale)
-- **Données de navigation** : 13 mois maximum
-- **Cookies** : 13 mois maximum
-
 - **Suppression des données** :  
   - Vous pouvez demander la suppression de vos données personnelles à tout moment en nous contactant.  
   - Lorsque les données ne sont plus nécessaires ou qu’une demande de suppression est reçue, nous veillons à ce qu’elles soient effacées de manière sécurisée et irréversible.
-
-#### Procédure de suppression
-  Suppression sur demande
-  - **Demande** : Envoyer un email à [spr01compte@gmail.com](mailto:spr01compte@gmail.com)
-  - **Délai de traitement** : 30 jours maximum
-  - **Confirmation** : Un email de confirmation de suppression sera envoyé
 
 ## Pourquoi traitons-nous vos données ?
 Notre priorité absolue est la sécurité des données des clients et, à ce titre, nous ne pouvons traiter que des données minimales sur les utilisateurs, uniquement dans la mesure où cela est absolument nécessaire pour maintenir le site web. Les informations collectées automatiquement sont utilisées uniquement pour identifier les cas potentiels d'abus et établir des informations statistiques concernant l'utilisation du site web. Ces informations statistiques ne sont pas autrement agrégées de manière à identifier un utilisateur particulier du système.
