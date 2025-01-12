@@ -20,17 +20,14 @@ Les données collectées peuvent être partagées avec des tiers uniquement dans
 - Pour respecter des obligations légales ou répondre à des demandes d’organismes gouvernementaux.  
 - Avec des fournisseurs d’analyse et de publicité dans le cadre d’un usage agrégé et anonymisé.  
 
-### Sécurisation des données personnelles et sensibles
+### Sécurisation des données personnelles et sensibles : 
 Nous avons mis en place des mesures rigoureuses pour protéger vos données :  
-- **Chiffrement des données** :  
-  Les données transmises et stockées sont chiffrées à l’aide de protocoles de chiffrement SSL/TLS.  
-- **Contrôles d’accès** :  
-  Seules les personnes autorisées au sein de notre équipe peuvent accéder aux données personnelles.  
-- **Surveillance et audits** :  
-  Nos systèmes sont surveillés en permanence pour prévenir tout accès non autorisé, et des audits réguliers garantissent leur sécurité.  
+- **Chiffrement des données** : Les données transmises et stockées sont chiffrées à l’aide de protocoles de chiffrement SSL/TLS.  
+- **Contrôles d’accès** : Seules les personnes autorisées au sein de notre équipe peuvent accéder aux données personnelles.  
+- **Surveillance et audits** : Nos systèmes sont surveillés en permanence pour prévenir tout accès non autorisé, et des audits réguliers garantissent leur sécurité.  
 
 ### Politique de conservation et de suppression des données
-- **Conservation des données** :  
+- **Conservation des données** :
   - Les données personnelles sont conservées uniquement le temps nécessaire pour atteindre les objectifs pour lesquels elles ont été collectées ou pour répondre à des obligations légales.  
   - Les périodes de conservation spécifiques dépendent du type de données collectées.  
 
