@@ -12,7 +12,7 @@ Lorsque vous visitez le spr01.com, nous recueillons automatiquement certaines in
 
 Nous nous engageons à fournir une transparence totale concernant la collecte, l’utilisation, et le partage des données personnelles et sensibles dans le cadre de notre application. Voici les détails :  
 
-### 1. Types de données collectées, utilisées et partagées
+### Types de données collectées, utilisées et partagées
 Notre application peut accéder, collecter, utiliser et partager les types de données suivants :  
 
 - **Données utilisateur** :  
@@ -23,7 +23,7 @@ Les données collectées peuvent être partagées avec des tiers uniquement dans
 - Pour respecter des obligations légales ou répondre à des demandes d’organismes gouvernementaux.  
 - Avec des fournisseurs d’analyse et de publicité dans le cadre d’un usage agrégé et anonymisé.  
 
-### 2. Sécurisation des données personnelles et sensibles
+### Sécurisation des données personnelles et sensibles
 Nous avons mis en place des mesures rigoureuses pour protéger vos données :  
 - **Chiffrement des données** :  
   Les données transmises et stockées sont chiffrées à l’aide de protocoles de chiffrement SSL/TLS.  
@@ -32,7 +32,7 @@ Nous avons mis en place des mesures rigoureuses pour protéger vos données :
 - **Surveillance et audits** :  
   Nos systèmes sont surveillés en permanence pour prévenir tout accès non autorisé, et des audits réguliers garantissent leur sécurité.  
 
-### 3. Politique de conservation et de suppression des données
+### Politique de conservation et de suppression des données
 - **Conservation des données** :  
   - Les données personnelles sont conservées uniquement le temps nécessaire pour atteindre les objectifs pour lesquels elles ont été collectées ou pour répondre à des obligations légales.  
   - Les périodes de conservation spécifiques dépendent du type de données collectées.  
